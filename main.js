@@ -1,4 +1,4 @@
-var typed= new typed(".text", {
+var Typed= new Typed(".text", {
     strings: ["Web Designer ", "Frontend Developer", "Web Developer", ],
     typeSpeed: 100,
     backSpeed: 100,
