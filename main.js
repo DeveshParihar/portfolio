@@ -52,7 +52,7 @@ function sendEmail(){
             //SecureToken : "735d93af-103e-4a89-9271-fe174cde68fa",                // Your Gmail password (or app-specific password)
             Host: "smtp.elasticemail.com",
             Username: "deveshparihar197@gmail.com",
-            Password: "5367634454F265C5E92390302EA61F62F2F2",
+            Password: "18076B9505C8178B318EAA72F3F8403D92CE",
             To : 'deveshparihar197@gmail.com',
             From : "deveshparihar197@gmail.com",
             Subject : document.getElementById("subject").value,
