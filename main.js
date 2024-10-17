@@ -50,7 +50,7 @@ const form = document.querySelector("form");
 function sendEmail(){
      Email.send({                                                      // Set mailer to use SMTP
             //SecureToken : "735d93af-103e-4a89-9271-fe174cde68fa",                // Your Gmail password (or app-specific password)
-            Host: "smtp.elastic.@gail.com",
+            Host: "smtp.elasticemail.com",
             Username: "deveshparihar197@gmail.com",
             Password: "5367634454F265C5E92390302EA61F62F2F2",
             To : 'deveshparihar197@gmail.com',
